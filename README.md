@@ -1,1 +1,1 @@
-SA_Project
+System architecture labs
