@@ -15,7 +15,7 @@ func main() {
 	fmt.Println("Starting server on port", port)
 	err := http.ListenAndServe(port, nil)
 
-	if err != nil{
+	if err != nil {
 		log.Fatal("listen and serve", err)
 	}
 }
