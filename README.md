@@ -19,3 +19,4 @@ version 5
 safe commit
 safe commit 2
 merge1
+for merging
