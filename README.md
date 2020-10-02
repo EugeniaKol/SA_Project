@@ -20,3 +20,5 @@ safe commit
 safe commit 2
 merge1
 for merging
+
+for merging 2
