@@ -1,7 +1,5 @@
-------------------------------------
+/////////////////////////
 System architecture labs
-------------------------------------
-
+/////////////////////////
 Adding server file
-
-version 1
+IM FROM THE FUTUREEEEEE
