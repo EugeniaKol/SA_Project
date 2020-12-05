@@ -26,7 +26,6 @@ type ResTime struct {
 
 func mainPage(w http.ResponseWriter, r *http.Request) {
 	t := time.Now()
-	t.Format(time.RFC3339)
 	resTime := ResTime{t}
 
 	w.Header().Set("content-type", "application/json")
